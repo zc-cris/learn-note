@@ -68,9 +68,14 @@
 #### 3. 查看版本状态和提交修改文件
 
 ```bash
-- git status	(查看当前本地库的状态)
+- git status	(查看当前工作区，暂存区的状态)
 - git add . (添加所有文件到暂存区)
+- git commit -m "提交信息" (将暂存区的修改提交到本地库)
 ```
+
+- 图解
+
+![1529856574522](C:\File\Typora\GitGitHub 学习日记\GitGitHub 学习日记.assets\1529856574522.png)
 
 
 
